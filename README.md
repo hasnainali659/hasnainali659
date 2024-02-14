@@ -1,5 +1,5 @@
 # 💫 About Me:
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2Vw0xz-i6d9evWkKQEZEi2&ust=1708001132588000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOix85fuqoQDFQAAAAAdAAAAABAE)
+![](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnain-ali-poonja/) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=s12Bq1kAAAAJ&hl=en) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hasnainali.ha659) 
 
